@@ -6,6 +6,8 @@
 
 
 # Nossos Diferenciais
-*Alta Disponibilidade: Garantimos uptime superior a 99.9%, minimizando interrupções para o seu negócio.
-*Desempenho de Alta Velocidade: Utilizamos as tecnologias mais avançadas para assegurar a melhor performance.
-*Suporte Técnico 24/7: Nossa equipe está disponível a qualquer hora do dia para oferecer suporte e resolver problemas.      
+**Alta Disponibilidade: Garantimos uptime superior a 99.9%, minimizando interrupções para o seu negócio.**
+
+**Desempenho de Alta Velocidade: Utilizamos as tecnologias mais avançadas para assegurar a melhor performance.**
+
+**Suporte Técnico 24/7: Nossa equipe está disponível a qualquer hora do dia para oferecer suporte e resolver problemas.**      
